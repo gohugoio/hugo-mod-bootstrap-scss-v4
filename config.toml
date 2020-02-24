@@ -7,4 +7,4 @@ target = "assets"
 path="github.com/twbs/bootstrap"
 [[module.imports.mounts]]
 source = "scss"
-target = "assets/scss"
+target = "assets/scss/bootstrap"
