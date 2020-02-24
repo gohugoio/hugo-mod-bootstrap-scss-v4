@@ -1,13 +1,12 @@
-This is a [Hugo Components](https://gohugo.io/hugo-modules/) that packages the Bootstrap v4 SCSS source ready to be used in Hugo.
+This is a [Hugo Components](https://gohugo.io/hugo-modules/) that packages the [Bootstrap v4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) SCSS source ready to be used in Hugo.
 
 You need the Hugo extended version and Go to use this component.
-
 
 ## Use
 
 Add the component to your Hugo site's config:
 
-```
+```toml
 [module]
 [[module.imports]]
 path = "github.com/gohugoio/hugo-bootstrap-scss-v4"
@@ -61,3 +60,8 @@ Or only what you need:
 @import "bootstrap/utilities";
 @import "bootstrap/print";
 ```
+
+
+## Versions
+
+This repository will be versioned following the minor and patch versions in the v4 series of Bootstrap.
