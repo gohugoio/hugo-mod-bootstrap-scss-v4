@@ -9,7 +9,7 @@ Add the component to your Hugo site's config:
 ```toml
 [module]
 [[module.imports]]
-path = "github.com/gohugoio/hugo-bootstrap-scss-v4"
+path = "github.com/gohugoio/hugo-mod-bootstrap-scss-v4"
 ```
 
 The Bootstrap SCSS will be mounted in `assets/scss/bootstrap`, so you can then import either all:
