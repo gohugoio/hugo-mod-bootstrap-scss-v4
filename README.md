@@ -1,6 +1,6 @@
-This is a [Hugo Components](https://gohugo.io/hugo-modules/) that packages the [Bootstrap v4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) SCSS source ready to be used in Hugo.
+This is a [Hugo module](https://gohugo.io/hugo-modules/) that packages the [Bootstrap v4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) SCSS source ready to be used in Hugo.
 
-You need the Hugo extended version and Go to use this component.
+You need the Hugo extended version and [Go](https://golang.org/dl/) to use this component.
 
 ## Use
 
